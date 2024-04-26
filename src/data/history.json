@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Senior Software Consultant",
+    "organization": "Counterpoint Consulting, Inc",
+    "startDate": "June, 2019",
+    "endDate": "Present",
+    "experiences": ["Currently working with Alberta Energy Regulators", "Developed for the Air Force Review Board Agency"],
+    "imageSrc": "history/counterpoint.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organization": "Tech Wizards, Inc",
+    "startDate": "May, 2017",
+    "endDate": "June, 2019",
+    "experiences": ["Worked for the Naval Surface Warfare Center at Dahlgren", "Built VR training programs for the sailors"],
+    "imageSrc": "history/techWizards.png"
+  },
+  {
+    "role": "Software Developer Internship",
+    "organization": "Ferguson Enterprises",
+    "startDate": "May, 2015",
+    "endDate": "Aug, 2015",
+    "experiences": [
+      "Developed a web app that uploads scanned packages",
+      "Built with Angular JS, Node JS, HTML, and AWS."
+    ],
+    "imageSrc": "history/ferguson.png"
+  }
+]
