@@ -19,5 +19,12 @@
     "description": "Game made to practice client and server side development in Unity",
     "skills": ["C#", "Unity", "Blender"],
     "source": "https://github.com/quinnogden/RTSProject"
+  },
+  {
+    "title": "Tournament Stream Overlay",
+    "imageSrc": "projects/stream.png",
+    "description": "Developed my own browser based stream overlay that is modular and adds animation to the scene",
+    "skills": ["HTML", "CSS", "NodeCG", "React"],
+    "source": "https://www.youtube.com/@Ogdog_"
   }
 ]
