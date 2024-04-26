@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Sushi Restaurant",
+    "imageSrc": "projects/sushi.png",
+    "description": "I used this project to work on my vanilla html/css styling using basic animations",
+    "skills": ["HTML", "CSS"],
+    "source": "https://github.com/quinnogden/sushi-webpage"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Office Minigolf",
+    "imageSrc": "projects/golf.png",
+    "description": "Mini Golf game set in the office of Counterpoint Consulting made for the C20g game jam",
+    "skills": ["C#", "HTML", "Godot", "Blender"],
+    "source": "https://github.com/quinnogden/miniGolf"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Multiplayer RTS Tank Game",
+    "imageSrc": "projects/rts.png",
+    "description": "Game made to practice client and server side development in Unity",
+    "skills": ["C#", "Unity", "Blender"],
+    "source": "https://github.com/quinnogden/RTSProject"
   }
 ]
